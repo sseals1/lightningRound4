@@ -1,0 +1,16 @@
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\lightningRound4.csproj.AssemblyReference.cache
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\lightningRound4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\lightningRound4.AssemblyInfoInputs.cache
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\lightningRound4.AssemblyInfo.cs
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\lightningRound4.csproj.CoreCompileInputs.cache
+C:\Users\sseal\workspace\lightningRound4\bin\Debug\net5.0\lightningRound4.exe
+C:\Users\sseal\workspace\lightningRound4\bin\Debug\net5.0\lightningRound4.deps.json
+C:\Users\sseal\workspace\lightningRound4\bin\Debug\net5.0\lightningRound4.runtimeconfig.json
+C:\Users\sseal\workspace\lightningRound4\bin\Debug\net5.0\lightningRound4.runtimeconfig.dev.json
+C:\Users\sseal\workspace\lightningRound4\bin\Debug\net5.0\lightningRound4.dll
+C:\Users\sseal\workspace\lightningRound4\bin\Debug\net5.0\lightningRound4.pdb
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\lightningRound4.dll
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\refint\lightningRound4.dll
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\lightningRound4.pdb
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\lightningRound4.genruntimeconfig.cache
+C:\Users\sseal\workspace\lightningRound4\obj\Debug\net5.0\ref\lightningRound4.dll
